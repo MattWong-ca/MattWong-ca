@@ -9,3 +9,11 @@ Here are some facts about me:
 - ⚡ Fun fact: I'm a huge fan of the Toronto Raptors and Blue Jays!
 - 💬 Ask me about anything! Reach me: <a href="https://www.linkedin.com/in/mattwong-ca">LinkedIn</a> 
 <!-- - 🤔 I’m looking for help with ... -->
+<h2>Experience 💼</h2>
+
+<h2>Skills 🛠</h2>
+Languages/Frameworks:</br>
+Swift • UIKit • SwiftUI • Java • C# • GraphQL • C++ • JavaScript • HTML • CSS • MATLAB • React Native
+<p></p>
+Tools/Technologies:</br>
+Git/GitHub/GitLab • Xcode • CocoaPods • JSON • VS Code • Geany • .NET • CLion • Android Studio
