@@ -16,7 +16,10 @@ Here are some facts about me:
 
 <h2>Skills 🛠</h2>
 Languages/Frameworks:</br>
-Swift • UIKit • SwiftUI • Java • C# • GraphQL • C++ • JavaScript • HTML • CSS • MATLAB • React Native
+Swift • UIKit • SwiftUI • Java • C# • GraphQL • C++ • JavaScript • HTML • CSS • Python • MATLAB • React Native
 <p></p>
 Tools/Technologies:</br>
 Git/GitHub/GitLab • Xcode • CocoaPods • JSON • VS Code • Geany • .NET • CLion • Android Studio
+<p></p>
+General:</br>
+Object-oriented Programming • MVC • MVVM • Version Control • Data Structures + Algorithms • Debugging
