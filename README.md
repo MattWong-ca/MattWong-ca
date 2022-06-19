@@ -9,7 +9,10 @@ Here are some facts about me:
 - ⚡ Fun fact: I'm a huge fan of the Toronto Raptors and Blue Jays!
 - 💬 Ask me about anything! Reach me: <a href="https://www.linkedin.com/in/mattwong-ca">LinkedIn</a> 
 <!-- - 🤔 I’m looking for help with ... -->
+
 <h2>Experience 💼</h2>
+
+<img src="https://github.com/MattWong-ca/MattWong-ca/blob/main/theScore.png" width=10% height=10%>  <img src="https://github.com/MattWong-ca/MattWong-ca/blob/main/Shopify.jpeg" width=10% height=10%>  <img src="https://github.com/MattWong-ca/MattWong-ca/blob/main/FoundersBoost.jpeg" width=10% height=10%>
 
 <h2>Skills 🛠</h2>
 Languages/Frameworks:</br>
