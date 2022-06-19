@@ -4,9 +4,9 @@
 
 Here are some facts about me:
 - 📱 I’m currently working on theScore's sports betting app, theScore Bet
-- 🌱 I’m currently learning iOS/Swift concepts, Java backend for web dev, and scratching the surface on crypto
-- 👯 I’m looking to collaborate on startup opportunities
-- ⚡ Fun fact: I'm a huge fan of the Toronto Raptors and Blue Jays!
+- 📘 I’m currently learning iOS/Swift concepts, Java backend for web dev, and scratching the surface on crypto
+- 🤝 I’m looking to collaborate on startup opportunities
+- 🏀 Fun fact: I'm a huge fan of the Toronto Raptors and Blue Jays!
 - 💬 Ask me about anything! Reach me: <a href="https://www.linkedin.com/in/mattwong-ca">LinkedIn</a> 
 <!-- - 🤔 I’m looking for help with ... -->
 
