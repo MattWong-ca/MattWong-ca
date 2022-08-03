@@ -1,6 +1,6 @@
 <h1 align="center">Matthew Wong (he/him)</h1>
 <p align="center">Swift iOS Developer • Android Java Developer • Startups 🚀</p>
-<p align="center">Hello, nice to meet you! I'm a mobile developer from Toronto, Canada. I'm currently working @ <b>theScore</b> as an iOS Developer, and previously worked @ <b>Shopify</b> in a web design/ecommerce consulting role!</p>
+<p align="center">Software developer from Toronto, Canada. Currently working @ <b>theScore</b> as an iOS Developer, and previously worked @ <b>Shopify</b> in web design/ecommerce consulting.</p>
 
 Some facts about me:
 - 📱 Currently working on theScore's sports betting app, theScore Bet
