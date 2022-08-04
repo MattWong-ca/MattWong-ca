@@ -1,5 +1,6 @@
 <h1 align="center">Matthew Wong (he/him)</h1>
-<p align="center">Swift iOS Developer • Android Java Developer • Startups 🚀</p>
+<p align="center"><a href="https://www.linkedin.com/in/mattwong-ca/">LinkedIn</a> • <a href="https://twitter.com/mattwong_ca">Twitter</a> • <a href="https://www.instagram.com/mattwong.ca/">Instagram</a></p>
+<!--<p align="center">Swift iOS Developer • Android Java Developer • Startups 🚀</p>-->
 <p align="center">Software developer from Toronto, Canada. Currently working @ <b>theScore</b> as an iOS Developer, and previously worked @ <b>Shopify</b> in web design/ecommerce consulting.</p>
 
 Some facts about me:
@@ -7,7 +8,6 @@ Some facts about me:
 - 📘 Currently learning iOS/Swift concepts, Java backend for web dev, and scratching the surface on crypto
 - 🤝 Looking to collaborate on startup opportunities
 - 🏀 Fun fact: I'm a huge fan of the Toronto Raptors and Blue Jays!
-- 💬 Ask me about anything! Reach me: <a href="https://www.linkedin.com/in/mattwong-ca">LinkedIn</a> 
 <!-- - 🤔 I’m looking for help with ... -->
 
 <h2>Experience 💼</h2>
