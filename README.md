@@ -16,10 +16,10 @@ Some facts about me:
 
 <h2>Skills 🛠</h2>
 <b>Languages/Frameworks:</b></br>
-Swift • UIKit • SwiftUI • Java • C# • GraphQL • C++ • JavaScript • HTML • CSS • Python • MATLAB • React Native
+Java • C# • Swift • UIKit • SwiftUI • HTML • CSS • GraphQL • C++ • JavaScript • Python • Ruby • MATLAB • React Native
 <p></p>
 <b>Tools/Technologies:</b></br>
-Git/GitHub/GitLab • Xcode • CocoaPods • JSON • VS Code • Geany • .NET • CLion • Android Studio
+Git/GitHub/GitLab • Google Cloud APIs • Xcode • CocoaPods • Firebase • JSON • VS Code • Geany • .NET • CLion • Android Studio
 <p></p>
 <b>General:</b></br>
-Object-oriented Programming • MVC • MVVM • Version Control • Data Structures + Algorithms • Debugging
+Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Control • Data Structures + Algorithms • Debugging
