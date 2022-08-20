@@ -4,8 +4,8 @@
 <p align="center">Software developer from Toronto, Canada. Currently working @ <b>theScore</b> as an iOS Developer, and previously worked @ <b>Shopify</b> in web design/ecommerce consulting.</p>
 
 Some facts about me:
-- 📱 Currently working on theScore's sports betting app, theScore Bet
-- 📘 Currently learning iOS/Swift concepts, Java backend for web dev, and scratching the surface on crypto
+- 📱 Working on theScore's sports betting app, theScore Bet
+- 📘 Learning iOS/Swift concepts, Java backend for web dev, and scratching the surface on crypto + Web3
 - 🤝 Looking to collaborate on startup opportunities
 - 🏀 Fun fact: Huge Toronto Raptors and Blue Jays fan!
 <!-- - 🤔 I’m looking for help with ... -->
