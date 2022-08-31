@@ -1,10 +1,10 @@
 <h1 align="center"><a href="https://mattwong.ca/">mattwong.ca</a> (he/him)</h1>
-<p align="center"><a href="https://www.linkedin.com/in/mattwong-ca/">LinkedIn</a> • <a href="https://twitter.com/mattwong_ca">Twitter</a> • <a href="https://www.instagram.com/mattwong.ca/">Instagram</a></p>
+<p align="center"><a href="https://www.linkedin.com/in/mattwong-ca/">LinkedIn</a> • <a href="https://twitter.com/mattwong_ca">Twitter</a> • <a href="https://www.instagram.com/mattwong.ca/">Instagram</a> • <a href="https://solo.to/mattwong">solo.to</a></p>
 <!--<p align="center">Swift iOS Developer • Android Java Developer • Startups 🚀</p>-->
-<p align="center">Software developer from Toronto, Canada. Previously @ <b>theScore</b> as an iOS Developer, and @ <b>Shopify</b> in a web design/ecommerce consulting role.</p>
+<p align="center">Software developer from Toronto, Canada. Gap year from uWaterloo. Previously @ <b>theScore</b> as an iOS Developer, and @ <b>Shopify</b> in a web design/ecommerce consulting role.</p>
 
 Some facts about me:
-- 📘 Learning iOS/Swift concepts, Java backend for web dev, and scratching the surface on crypto + Web3
+- 📘 Learning iOS/Swift concepts, Java backend for web dev, and exploring Web3
 - 🤝 Looking to collaborate on startup opportunities
 - 🏀 Fun fact: Huge Toronto Raptors and Blue Jays fan!
 <!-- - 🤔 I’m looking for help with ... -->
@@ -15,7 +15,7 @@ Some facts about me:
 
 <h2>Skills 🛠</h2>
 <b>Languages/Frameworks:</b></br>
-Java • C# • Swift • UIKit • SwiftUI • HTML • CSS • GraphQL • C++ • JavaScript • Python • Ruby • MATLAB • React Native
+Java • C# • Swift • UIKit • SwiftUI • HTML • CSS • GraphQL • C++ • JavaScript • Python • Ruby • MATLAB • React Native • Lottie
 <p></p>
 <b>Tools/Technologies:</b></br>
 Git/GitHub/GitLab • Google Cloud APIs • Xcode • CocoaPods • Firebase • JSON • VS Code • Geany • .NET • CLion • Android Studio
