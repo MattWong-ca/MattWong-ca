@@ -15,7 +15,7 @@ Some facts about me:
 
 <h2>Skills 🛠</h2>
 <b>Languages/Frameworks:</b></br>
-Java • C# • Swift • UIKit • SwiftUI • HTML • CSS • GraphQL • C++ • JavaScript • Python • Ruby • MATLAB • React Native • Lottie
+Java • C# • Swift • UIKit • SwiftUI • HTML/CSS/JS • GraphQL • C++ • Solidity • Python • Ruby • MATLAB • React Native • Lottie
 <p></p>
 <b>Tools/Technologies:</b></br>
 Git/GitHub/GitLab • Google Cloud APIs • Xcode • CocoaPods • Firebase • JSON • VS Code • Geany • .NET • CLion • Android Studio
