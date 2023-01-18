@@ -4,9 +4,9 @@
 <p align="center">Software developer from Toronto, Canada. Gap year from uWaterloo. Previously @ <b>Google</b> Software Product Sprint, @ <b>theScore</b> as an iOS Developer, and @ <b>Shopify</b> in a web design/ecommerce consulting role.</p>
 
 Some facts about me:
-- 📘 Learning iOS/Swift concepts, Java backend for web dev, and exploring Web3
+- 📘 Learning iOS/Swift for mobile apps, Java backend for web dev, and Web3 dev in Ethereum + Solana
 - 🤝 Looking to collaborate on startup opportunities
-- 🏀 Fun fact: Huge Toronto Raptors and Blue Jays fan!
+- 🏀 Huge Toronto Raptors and Blue Jays fan!
 <!-- - 🤔 I’m looking for help with ... -->
 
 <h2>Experience 💼</h2>
@@ -22,3 +22,9 @@ Git/GitHub/GitLab • Google Cloud APIs • Xcode • CocoaPods • Firebase •
 <p></p>
 <b>General:</b></br>
 Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Control • Data Structures + Algorithms • Debugging
+
+<h2>Features 🗞</h2>
+
+- 2021: <a href="https://www.ycdsb.ca/2021/07/09/2021-top-scholars/">York Catholic District School Board announces its 2021 Top Scholars</a>
+- 2020: <a href="https://www.yorkregion.com/news-story/10133005-richmond-hill-teen-starts-bottle-drive-to-help-businesses-in-developing-nations-amid-covid-19/">Richmond Hill teen starts bottle drive to help businesses in developing nations amid COVID-19</a>
+- 2016: <a href="https://image.isu.pub/160204173716-919e26a3fc68cf73461f0ed2eb2204a8/jpg/page_1.jpg">Cardboard Boat Race</a>
