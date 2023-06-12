@@ -4,7 +4,7 @@
 <p align="center">Software developer from Toronto, Canada. Gap year from uWaterloo. Previously @ <b>Google</b> Software Product Sprint, @ <b>theScore</b> as an iOS Developer, and @ <b>Shopify</b> in a web design/ecommerce consulting role.</p>
 
 Some facts about me:
-- 📘 Learning iOS/Swift for mobile apps, Java backend for web dev, and Web3 dev in Ethereum + Solana
+- 📘 Learning iOS/Swift for mobile apps and Ethereum/Solidity dev
 - 🤝 Looking to collaborate on startup opportunities
 - 🏀 Huge Toronto Raptors and Blue Jays fan!
 <!-- - 🤔 I’m looking for help with ... -->
