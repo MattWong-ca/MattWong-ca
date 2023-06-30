@@ -28,3 +28,18 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
 - 2021: <a href="https://www.ycdsb.ca/2021/07/09/2021-top-scholars/">York Catholic District School Board announces its 2021 Top Scholars</a>
 - 2020: <a href="https://www.yorkregion.com/news-story/10133005-richmond-hill-teen-starts-bottle-drive-to-help-businesses-in-developing-nations-amid-covid-19/">Richmond Hill teen starts bottle drive to help businesses in developing nations amid COVID-19</a>
 - 2016: <a href="https://image.isu.pub/160204173716-919e26a3fc68cf73461f0ed2eb2204a8/jpg/page_1.jpg">Cardboard Boat Race</a>
+
+<h2>Web3 Hackathons + Conferences 🏗️</h2>
+
+- Converge22 by Circle (sponsored by Spawn)
+- Penn Blockchain Conference & Hackathon (sponsored by Penn Blockchain)
+    - won the Data Track by Streamr with Dedrop
+- ETHDenver (sponsored by ETHDenver & Axelar)
+- Scaling Ethereum by ETHGlobal
+    - won pool prize by Scroll with FamilyShare
+- LionHack 2023 by Columbia/NYU Blockchain
+    - won Solana track with Crumbs
+- Consensus2023 by CoinDesk
+- OlympiHacks by Waterloo Blockchain (organized it)
+- ETHGlobal Waterloo 2023
+    - won MetaMask SDK prize and Polygon pool prize with Videre
