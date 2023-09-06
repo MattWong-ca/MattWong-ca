@@ -43,3 +43,5 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
 - OlympiHacks by Waterloo Blockchain (organized it)
 - ETHGlobal Waterloo 2023
     - won MetaMask SDK prize and Polygon pool prize with Videre
+- ETHGlobal Superhack 2023
+    - Worldcoin + Mode pool prizes
