@@ -45,3 +45,5 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
     - won MetaMask SDK prize and Polygon pool prize with Videre
 - ETHGlobal Superhack 2023
     - Worldcoin + Mode pool prizes
+- Consensys NAVH 2023
+    - MetaMask SDK bounty
