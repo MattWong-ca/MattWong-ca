@@ -1,17 +1,15 @@
-<h1 align="center"><a href="https://mattwong.ca/">mattwong.ca</a> (he/him)</h1>
+<h1 align="center"><a href="https://mattwong.ca/">mattwong.ca</a></h1>
 <p align="center"><a href="https://www.linkedin.com/in/mattwong-ca/">LinkedIn</a> • <a href="https://twitter.com/mattwong_ca">Twitter</a> • <a href="https://www.instagram.com/mattwong.ca/">Instagram</a> • <a href="https://solo.to/mattwong">solo.to</a></p>
-<!--<p align="center">Swift iOS Developer • Android Java Developer • Startups 🚀</p>-->
-<p align="center">Software developer from Toronto, Canada. Biomedical Engineering @ UWaterloo. Previously @ <b>Google</b> Software Product Sprint, @ <b>theScore</b> as an iOS Developer, and @ <b>Shopify</b> in a web design/ecommerce consulting role.</p>
+<p align="center">Software Developer @ <a href="https://www.exacare.com/">ExaCare</a> - software for assisted living communities! Biomedical Engineering @ UWaterloo. Previously Software Product Sprint @ <b>Google</b>, iOS Developer @ <b>theScore</b>, and ecommerce stores @ <b>Shopify</b>.</p>
 
 Some facts about me:
-- 📘 Learning iOS/Swift for mobile apps and Ethereum/Solidity dev
+- 📘 Learning full stack dev, iOS/Swift for mobile apps, and Ethereum/Solidity dev
 - 🤝 Looking to collaborate on hackathons
 - 🏀 Huge Toronto Raptors and Blue Jays fan!
-<!-- - 🤔 I’m looking for help with ... -->
 
 <h2>Experience 💼</h2>
 
-<img src="https://github.com/MattWong-ca/MattWong-ca/blob/main/theScore.png" width=10% height=10%>  <img src="https://github.com/MattWong-ca/MattWong-ca/blob/main/Shopify.jpeg" width=10% height=10%>  <img src="https://github.com/MattWong-ca/MattWong-ca/blob/main/FoundersBoost.jpeg" width=10% height=10%>
+<img src="https://github.com/MattWong-ca/MattWong-ca/blob/main/ExaCare.png" width=10% height=10%> <img src="https://github.com/MattWong-ca/MattWong-ca/blob/main/theScore.png" width=10% height=10%>  <img src="https://github.com/MattWong-ca/MattWong-ca/blob/main/Shopify.jpeg" width=10% height=10%>  <img src="https://github.com/MattWong-ca/MattWong-ca/blob/main/FoundersBoost.jpeg" width=10% height=10%>
 
 <h2>Skills 🛠</h2>
 <b>Languages/Frameworks:</b></br>
