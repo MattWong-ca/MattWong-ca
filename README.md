@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://mattwong.ca/">mattwong.ca</a></h1>
-<p align="center"><a href="https://www.linkedin.com/in/mattwong-ca/">LinkedIn</a> • <a href="https://twitter.com/mattwong_ca">Twitter</a> • <a href="https://www.instagram.com/mattwong.ca/">Instagram</a> • <a href="https://solo.to/mattwong">solo.to</a></p>
+<p align="center"><a href="https://gitlab.com/mattwong_ca/">GitLab</a> • <a href="https://www.linkedin.com/in/mattwong-ca/">LinkedIn</a> • <a href="https://twitter.com/mattwong_ca">Twitter</a> • <a href="https://www.instagram.com/mattwong.ca/">Instagram</a> • <a href="https://solo.to/mattwong">solo.to</a></p>
 <p align="center">Software Developer @ <a href="https://www.exacare.com/">ExaCare</a> - software for assisted living communities! Biomedical Engineering @ UWaterloo. Previously Software Product Sprint @ <b>Google</b>, iOS Developer @ <b>theScore</b>, and ecommerce stores @ <b>Shopify</b>.</p>
 
 Some facts about me:
