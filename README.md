@@ -45,3 +45,5 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
     - Worldcoin + Mode pool prizes
 - Consensys NAVH 2023
     - MetaMask SDK bounty
+- ETHGlobal Frameworks
+    - Built FrameGPT
