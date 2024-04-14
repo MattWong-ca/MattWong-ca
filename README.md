@@ -1,4 +1,4 @@
-# Welcome to my page! 🚀
+# Welcome to my GitHub! 🚀
 <img width="1440" alt="mattwongca" src="https://github.com/MattWong-ca/MattWong-ca/assets/66754344/0f848e69-130f-42bb-9eb4-96af07516571">
 
 <h2>About 👋</h2>
