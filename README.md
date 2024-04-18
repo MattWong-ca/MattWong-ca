@@ -52,3 +52,5 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
     - MetaMask SDK bounty
 - ETHGlobal Frameworks
     - Built FrameGPT
+- LearnWeb3 Decentralized Intelligence Season 2
+    - 1st place Farcaster bounty, 2nd place FLock bounty
