@@ -17,8 +17,12 @@ Some facts about me:
 <img src="https://github.com/MattWong-ca/MattWong-ca/blob/main/ExaCare.png" width=10% height=10%> <img src="https://github.com/MattWong-ca/MattWong-ca/blob/main/theScore.png" width=10% height=10%>  <img src="https://github.com/MattWong-ca/MattWong-ca/blob/main/Shopify.jpeg" width=10% height=10%>  <img src="https://github.com/MattWong-ca/MattWong-ca/blob/main/FoundersBoost.jpeg" width=10% height=10%>
 
 <h2>Skills 🛠</h2>
-<b>Languages/Frameworks:</b></br>
-Java • C# • Swift • Solidity • JavaScript • UIKit • SwiftUI • HTML/CSS • GraphQL • C++ • Python • Ruby • MATLAB • React • Lottie
+
+**Languages/Frameworks:**</br>
+💻 TypeScript/JavaScript • React • Next.js • Node.js • Tailwind CSS • HTML/CSS</br>
+🗄️ Java • C# • Python • GraphQL • C++ • Ruby • MATLAB • SQL</br>
+📱 Swift • SwiftUI • UIKit • Lottie</br>
+🦄 Solidity • Ethers.js</br>
 <p></p>
 <b>Tools/Technologies:</b></br>
 Git/GitHub/GitLab • Google Cloud APIs • Xcode • CocoaPods • Firebase • JSON • VS Code • Geany • .NET • CLion • Android Studio
