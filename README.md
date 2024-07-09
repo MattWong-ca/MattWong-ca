@@ -5,7 +5,7 @@
 
 **Links:** [mattwong.ca](https://mattwong.ca/) • [GitLab](https://gitlab.com/mattwong_ca/) • [LinkedIn](https://www.linkedin.com/in/mattwong-ca/) • [Twitter](https://twitter.com/mattwong_ca) • [Instagram](https://www.instagram.com/mattwong.ca/) • [solo.to](https://solo.to/mattwong)
 
-<p>Software Developer @ <a href="https://www.exacare.com/">ExaCare</a> - a health-tech SaaS startup building assisted living software ($6.5M raised). Biomedical Engineering @ UWaterloo. Previously Software Product Sprint @ <b>Google</b>, iOS Developer @ <b>theScore</b>, and ecommerce stores @ <b>Shopify</b>.</p>
+Engineering @ UWaterloo. Previously Software Product Sprint @ <b>Google</b>, iOS Developer @ <b>theScore</b>, ecommerce stores @ <b>Shopify</b>, and Full Stack Developer @ <b>ExaCare</b>.</p>
 
 Some facts about me:
 - 📘 Learning full stack dev, iOS/Swift for mobile apps, and Ethereum/Solidity dev
