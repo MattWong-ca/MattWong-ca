@@ -3,7 +3,7 @@
 
 <h2>About 👋</h2>
 
-**Links:** [mattwong.ca](https://mattwong.ca/) • [GitLab](https://gitlab.com/mattwong_ca/) • [LinkedIn](https://www.linkedin.com/in/mattwong-ca/) • [Twitter](https://twitter.com/mattwong_ca) • [Instagram](https://www.instagram.com/mattwong.ca/) • [solo.to](https://solo.to/mattwong)
+**Links:** [mattwong.ca](https://mattwong.ca/) • [GitLab](https://gitlab.com/mattwong_ca/) • [LinkedIn](https://www.linkedin.com/in/mattwong-ca/) • [X](https://x.com/mattwong_ca) • [Instagram](https://www.instagram.com/mattwong.ca/) • [solo.to](https://solo.to/mattwong)
 
 Engineering @ UWaterloo. Previously Software Product Sprint @ <b>Google</b>, iOS Developer @ <b>theScore</b>, ecommerce stores @ <b>Shopify</b>, and Full Stack Developer @ <b>ExaCare</b>.</p>
 
@@ -58,3 +58,5 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
     - Built FrameGPT
 - LearnWeb3 Decentralized Intelligence Season 2
     - 1st place Farcaster bounty, 2nd place FLock bounty
+- ETHToronto
+    - 1st place Seal bounty
