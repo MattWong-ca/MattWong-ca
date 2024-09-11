@@ -14,7 +14,11 @@ Some facts about me:
 
 <h2>Experience 💼</h2>
 
-<img src="https://github.com/MattWong-ca/MattWong-ca/blob/main/ExaCare.png" width=10% height=10%> <img src="https://github.com/MattWong-ca/MattWong-ca/blob/main/theScore.png" width=10% height=10%>  <img src="https://github.com/MattWong-ca/MattWong-ca/blob/main/Shopify.jpeg" width=10% height=10%>  <img src="https://github.com/MattWong-ca/MattWong-ca/blob/main/FoundersBoost.jpeg" width=10% height=10%>
+<img src="https://github.com/user-attachments/assets/b795b315-0de4-4d8f-a4f6-cf7771a10ee5" alt="ExaCare" width="80"/>
+<img src="https://github.com/user-attachments/assets/8c5efe2f-9dc0-4870-8512-b865ce67abb2" alt="theScore" width="80"/>
+<img src="https://github.com/user-attachments/assets/3039fb70-ca0d-481e-9c96-34247effd75b" alt="Google" width="80"/>
+<img src="https://github.com/user-attachments/assets/f5341bd3-0dc4-4118-aa03-1fcd6b72114c" alt="Shopify" width="80"/>
+<img src="https://github.com/user-attachments/assets/59dc234e-f098-4415-9048-d9bdf2c77f3c" alt="FoundersBoost" width="80"/>
 
 <h2>Skills 🛠</h2>
 
