@@ -5,10 +5,12 @@
 
 **Links:** [mattwong.ca](https://mattwong.ca/) • [GitLab](https://gitlab.com/mattwong_ca/) • [LinkedIn](https://www.linkedin.com/in/mattwong-ca/) • [X](https://x.com/mattwong_ca) • [Instagram](https://www.instagram.com/mattwong.ca/) • [solo.to](https://solo.to/mattwong)
 
+Currently an open source contributor to <b>Protocol Labs</b>.
+
 Engineering @ UWaterloo. Previously Software Product Sprint @ <b>Google</b>, iOS Developer @ <b>theScore</b>, ecommerce stores @ <b>Shopify</b>, and Full Stack Developer @ <b>ExaCare</b>.</p>
 
 Some facts about me:
-- 📘 Learning full stack dev, iOS/Swift for mobile apps, and Ethereum/Solidity dev
+- 📘 Working with Ethereum/Solidity, Solana/Rust, and Go/Python
 - 🤝 Looking to collaborate on hackathons
 - 🏀 Huge Toronto Raptors and Blue Jays fan!
 
