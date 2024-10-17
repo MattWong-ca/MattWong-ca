@@ -5,7 +5,7 @@
 
 **Links:** [mattwong.ca](https://mattwong.ca/) • [GitLab](https://gitlab.com/mattwong_ca/) • [LinkedIn](https://www.linkedin.com/in/mattwong-ca/) • [X](https://x.com/mattwong_ca) • [Instagram](https://www.instagram.com/mattwong.ca/) • [solo.to](https://solo.to/mattwong)
 
-Currently an open source contributor to <b>Protocol Labs</b>.
+Currently an open source contributor to <b>Protocol Labs</b> (Filecoin, IPFS).
 
 Engineering @ UWaterloo. Previously Software Product Sprint @ <b>Google</b>, iOS Developer @ <b>theScore</b>, ecommerce stores @ <b>Shopify</b>, and Full Stack Developer @ <b>ExaCare</b>.</p>
 
