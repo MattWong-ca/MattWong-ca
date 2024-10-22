@@ -66,3 +66,7 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
     - 1st place Farcaster bounty, 2nd place FLock bounty
 - ETHToronto
     - 1st place Seal bounty
+- Global PYUSD Portal Hackathon
+    - 2nd place Overall
+- ETHGlobal San Francisco
+    - Built Neurosaurs, won Flow pool prize
