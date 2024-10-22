@@ -68,5 +68,8 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
     - 1st place Seal bounty
 - Global PYUSD Portal Hackathon
     - 2nd place Overall
+    - Won sponsored trip to demo at Solana Hong Kong Hacker House
+- Scroll x Alchemy Level Up Mini-Hack
+    - Built Endless Scroll
 - ETHGlobal San Francisco
     - Built Neurosaurs, won Flow pool prize
