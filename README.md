@@ -31,7 +31,7 @@ Some facts about me:
 🦄 Solidity • Ethers.js</br>
 <p></p>
 <b>Tools/Technologies:</b></br>
-Git/GitHub/GitLab • Google Cloud APIs • Xcode • CocoaPods • Firebase • JSON • VS Code • Geany • .NET • CLion • Android Studio
+Ethereum • Git/GitHub/GitLab • RESTful APIs • Google Cloud APIs • JSON • CocoaPods • Firebase • .NET
 <p></p>
 <b>General:</b></br>
 Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Control • Data Structures + Algorithms • Debugging
