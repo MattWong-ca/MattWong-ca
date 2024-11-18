@@ -73,3 +73,6 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
     - Built Endless Scroll
 - ETHGlobal San Francisco
     - Built Neurosaurs, won Flow pool prize
+- ETHGlobal Bangkok
+    - 1st place Akave prize, Flow pool prize 
+
