@@ -3,19 +3,28 @@
 
 <h2>About 👋</h2>
 
-**Links:** [mattwong.ca](https://mattwong.ca/) • [GitLab](https://gitlab.com/mattwong_ca/) • [LinkedIn](https://www.linkedin.com/in/mattwong-ca/) • [X](https://x.com/mattwong_ca) • [Instagram](https://www.instagram.com/mattwong.ca/) • [solo.to](https://solo.to/mattwong)
+**Links:** [mattwong.ca](https://mattwong.ca/) • [GitLab](https://gitlab.com/mattwong_ca/) • [LinkedIn](https://www.linkedin.com/in/mattwong-ca/) • [X](https://x.com/mattwong_ca) • [Instagram](https://www.instagram.com/mattwong.ca/)
 
-Currently an open source contributor to <b>Protocol Labs</b> (Filecoin, IPFS).
+About me:
+- 🛠 Open source contributor to <b>Protocol Labs</b> (Filecoin, IPFS)
+- 🦄 Devcon Scholar via <b>Ethereum Foundation</b>
+- 📘 Working with Ethereum/Solidity, Solana/Rust, and Go/Python!
 
-Engineering @ UWaterloo. Previously Software Product Sprint @ <b>Google</b>, iOS Developer @ <b>theScore</b>, ecommerce stores @ <b>Shopify</b>, and Full Stack Developer @ <b>ExaCare</b>.</p>
+Previously:
+- Partnerships Lead @ <b>Waterloo Blockchain</b>
+- Store Designer @ <b>Shopify</b>
+- iOS Developer @ <b>theScore</b>
+- Software Product Sprint @ <b>Google</b>
+- Full Stack Developer @ <b>ExaCare</b>
 
-Some facts about me:
-- 📘 Working with Ethereum/Solidity, Solana/Rust, and Go/Python
+Also:
+- 🏫 Engineering @ UWaterloo
 - 🤝 Looking to collaborate on hackathons
 - 🏀 Huge Toronto Raptors and Blue Jays fan!
 
 <h2>Experience 💼</h2>
 
+<img src="https://github.com/user-attachments/assets/d27402e6-2d28-402a-a5f2-ec6e28302189" alt="Protocol Labs" width="80"/>
 <img src="https://github.com/user-attachments/assets/b795b315-0de4-4d8f-a4f6-cf7771a10ee5" alt="ExaCare" width="80"/>
 <img src="https://github.com/user-attachments/assets/8c5efe2f-9dc0-4870-8512-b865ce67abb2" alt="theScore" width="80"/>
 <img src="https://github.com/user-attachments/assets/3039fb70-ca0d-481e-9c96-34247effd75b" alt="Google" width="80"/>
