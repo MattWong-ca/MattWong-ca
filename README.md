@@ -1,14 +1,15 @@
 # Welcome to my GitHub! 🚀
-<img width="1440" alt="mattwongca" src="https://github.com/MattWong-ca/MattWong-ca/assets/66754344/0f848e69-130f-42bb-9eb4-96af07516571">
+<!-- <img width="1440" alt="mattwongca" src="https://github.com/MattWong-ca/MattWong-ca/assets/66754344/0f848e69-130f-42bb-9eb4-96af07516571"> -->
 
-<h2>About 👋</h2>
+<!-- <h2>About 👋</h2> -->
 
-**Links:** [mattwong.ca](https://mattwong.ca/) • [GitLab](https://gitlab.com/mattwong_ca/) • [LinkedIn](https://www.linkedin.com/in/mattwong-ca/) • [X](https://x.com/mattwong_ca) • [Instagram](https://www.instagram.com/mattwong.ca/)
+**Links:** [mattwong.ca](https://mattwong.ca/) • [GitLab](https://gitlab.com/mattwong_ca/) • [LinkedIn](https://www.linkedin.com/in/mattwong-ca/) • [X](https://x.com/mattwong_ca)
 
 About me:
 - 🛠 Open source contributor to <b>Protocol Labs</b> (Filecoin, IPFS)
 - 🦄 Devcon Scholar via <b>Ethereum Foundation</b>
-- 📘 Working with Ethereum/Solidity, Solana/Rust, and Go/Python!
+- 🏫 Engineering @ <b>UWaterloo</b>
+- 📘 Working with Ethereum/Solidity/Python and learning Go/Rust!
 
 Previously:
 - Partnerships Lead @ <b>Waterloo Blockchain</b>
@@ -16,11 +17,6 @@ Previously:
 - iOS Developer @ <b>theScore</b>
 - Software Product Sprint @ <b>Google</b>
 - Full Stack Developer @ <b>ExaCare</b>
-
-Also:
-- 🏫 Engineering @ UWaterloo
-- 🤝 Looking to collaborate on hackathons
-- 🏀 Huge Toronto Raptors and Blue Jays fan!
 
 <h2>Experience 💼</h2>
 
