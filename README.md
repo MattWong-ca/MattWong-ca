@@ -43,6 +43,7 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
 
 <h2>Features 🗞</h2>
 
+- 2025: <a href="https://www.linkedin.com/posts/sutd_sutd-sutdlife-uwaterloo-ugcPost-7323605607712722945-J7IM">Exchange student clinches three 1st place bounties - SUTD LinkedIn</a>
 - 2025: <a href="https://www.zircuit.com/blog/zircuit-at-eth-global-taipei-2025-the-year-of-ai-eip-7702">Zircuit at ETHGlobal Taipei 2025: The Year of AI & EIP-7702</a>
 - 2025: <a href="https://flow.com/post/flow-celebrates-another-1-spot-as-the-most-built-on-l1-at-ethglobal-taipei">Flow celebrates another #1 spot as the most built on L1 at ETHGlobal Taipei</a>
 - 2024: <a href="https://developer.paypal.com/community/blog/winning-solutions-pyusd-portal-hackathon-solana/">Breaking New Ground: Winning Solutions from the PYUSD Portal Hackathon on Solana</a>
