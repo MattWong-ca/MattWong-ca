@@ -6,12 +6,13 @@
 **Links:** [mattwong.ca](https://mattwong.ca/) • [GitLab](https://gitlab.com/mattwong_ca/) • [LinkedIn](https://www.linkedin.com/in/mattwong-ca/) • [X](https://x.com/mattwong_ca)
 
 About me:
-- 🛠 Open source contributor to <b>Protocol Labs</b> (Filecoin, IPFS)
-- 🦄 Devcon Scholar via <b>Ethereum Foundation</b>
+- 🚢 Product @ <b>Notable Health</b>
 - 🏫 Engineering @ <b>UWaterloo</b>
 - 📘 Working with Ethereum/Solidity/Python and learning Go/Rust!
 
 Previously:
+- 🛠 Open source contributor to <b>Protocol Labs</b> (Filecoin, IPFS)
+- 🦄 Devcon Scholar via <b>Ethereum Foundation</b>
 - Partnerships Lead @ <b>Waterloo Blockchain</b>
 - Store Designer @ <b>Shopify</b>
 - iOS Developer @ <b>theScore</b>
