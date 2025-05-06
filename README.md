@@ -8,11 +8,11 @@
 About me:
 - 🚢 Product @ <b>Notable Health</b>
 - 🏫 Engineering @ <b>UWaterloo</b>
-- 📘 Working with Ethereum/Solidity/Python and learning Go/Rust!
+- 📘 Exploring voice AI agents!
 
 Previously:
-- 🛠 Open source contributor to <b>Protocol Labs</b> (Filecoin, IPFS)
-- 🦄 Devcon Scholar via <b>Ethereum Foundation</b>
+- Open source contributor to <b>Protocol Labs</b> (Filecoin, IPFS)
+- Devcon Scholar via <b>Ethereum Foundation</b>
 - Partnerships Lead @ <b>Waterloo Blockchain</b>
 - Store Designer @ <b>Shopify</b>
 - iOS Developer @ <b>theScore</b>
