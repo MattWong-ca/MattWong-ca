@@ -21,6 +21,7 @@ Previously:
 
 <h2>Experience 💼</h2>
 
+<img src="https://github.com/user-attachments/assets/5acfc718-9cf4-48b9-98b5-e32d7d18bb8e" alt="Notable Health" width="80"/>
 <img src="https://github.com/user-attachments/assets/d27402e6-2d28-402a-a5f2-ec6e28302189" alt="Protocol Labs" width="80"/>
 <img src="https://github.com/user-attachments/assets/b795b315-0de4-4d8f-a4f6-cf7771a10ee5" alt="ExaCare" width="80"/>
 <img src="https://github.com/user-attachments/assets/8c5efe2f-9dc0-4870-8512-b865ce67abb2" alt="theScore" width="80"/>
@@ -32,7 +33,7 @@ Previously:
 
 **Languages/Frameworks:**</br>
 💻 TypeScript/JavaScript • React • Next.js • Node.js • Tailwind CSS • HTML/CSS</br>
-🗄️ Java • C# • Python • GraphQL • C++ • Ruby • MATLAB • SQL</br>
+🗄️ Python • Java • C# • GraphQL • C++ • Ruby • MATLAB • SQL</br>
 📱 Swift • SwiftUI • UIKit • Lottie</br>
 🦄 Solidity • Ethers.js</br>
 <p></p>
@@ -53,8 +54,16 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
 - 2016: <a href="https://image.isu.pub/160204173716-919e26a3fc68cf73461f0ed2eb2204a8/jpg/page_1.jpg">Cardboard Boat Race</a>
 
 <h2>Web3 Hackathons + Conferences 🏗️</h2>
+<details>
+  <summary>2022</summary>
 
 - Converge22 by Circle (sponsored by Spawn)
+
+</details>
+
+<details>
+  <summary>2023</summary>
+
 - Penn Blockchain Conference & Hackathon (sponsored by Penn Blockchain)
     - won the Data Track by Streamr with Dedrop
 - ETHDenver (sponsored by ETHDenver & Axelar)
@@ -70,6 +79,12 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
     - Worldcoin + Mode pool prizes
 - Consensys NAVH 2023
     - MetaMask SDK bounty
+
+</details>
+
+<details>
+  <summary>2024</summary>
+
 - ETHGlobal Frameworks
     - Built FrameGPT
 - LearnWeb3 Decentralized Intelligence Season 2
@@ -85,7 +100,15 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
     - Built Neurosaurs, won Flow pool prize
 - ETHGlobal Bangkok
     - 1st place Akave prize, Flow pool prize
+
+</details>
+
+<details>
+  <summary>2025</summary>
+
 - ETHGlobal Taipei
     - Built FindMyPhotos.app
     - Most Killer App Potential 1st place - Flow, Best Project - Zircuit, Real World Anything - Polygon
+
+</details>
 
