@@ -3,7 +3,7 @@
 
 <!-- <h2>About 👋</h2> -->
 
-**Links:** [mattwong.ca](https://mattwong.ca/) • [GitLab](https://gitlab.com/mattwong_ca/) • [LinkedIn](https://www.linkedin.com/in/mattwong-ca/) • [X](https://x.com/mattwong_ca)
+**Links:** [mattwong.ca](https://mattwong.ca/) • [LinkedIn](https://www.linkedin.com/in/mattwong-ca/) • [X](https://x.com/mattwong_ca)
 
 About me:
 - 🚢 Product @ <b>Notable Health</b>
