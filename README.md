@@ -111,6 +111,7 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
     - Built FindMyPhotos.app
     - Most Killer App Potential 1st place - Flow, Best Project - Zircuit, Real World Anything - Polygon
 - Base x Vercel AI Buildathon
+    - Built Farlo
     - 1st Place Overall
 
 </details>
