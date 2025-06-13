@@ -8,7 +8,7 @@
 About me:
 - 🚢 Product @ <b>Notable Health</b>
 - 🏫 Engineering @ <b>UWaterloo</b>
-- 📘 Exploring voice AI agents!
+- 🛠 Building voice AI agents!
 
 Previously:
 - Open source contributor to <b>Protocol Labs</b> (Filecoin, IPFS)
