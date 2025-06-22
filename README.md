@@ -113,6 +113,8 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
 - Base x Vercel AI Buildathon
     - Built Farlo
     - 1st Place Overall
-
+- FLUX.1 Kontext AI Hackathon by Black Forest Labs x Replicate
+    - Built VoiceCam
+    - Won $150 USD mechanical keyboard, received votes by every sponsor judge
 </details>
 
