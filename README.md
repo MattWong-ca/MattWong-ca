@@ -115,6 +115,6 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
     - 1st Place Overall
 - FLUX.1 Kontext AI Hackathon by Black Forest Labs x Replicate
     - Built VoiceCam
-    - Won $150 USD mechanical keyboard, received votes by every sponsor judge
+    - 1st Place Overall, won $150 USD mechanical keyboard and received votes by every sponsor judge
 </details>
 
