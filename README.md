@@ -45,6 +45,7 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
 
 <h2>Features 🗞</h2>
 
+- 2025: <a href="https://replicate.com/blog/kontext-hackathon">The FLUX.1 Kontext hackathon - Replicate Blog</a>
 - 2025: <a href="https://uwaterloo.ca/biomedical-engineering/news/facial-recognition-app-nets-bme-student-hackathon-win">Facial recognition app nets BME student hackathon win</a>
 - 2025: <a href="https://www.linkedin.com/posts/sutd_sutd-sutdlife-uwaterloo-ugcPost-7323605607712722945-J7IM">Exchange student clinches three 1st place bounties - SUTD LinkedIn</a>
 - 2025: <a href="https://www.zircuit.com/blog/zircuit-at-eth-global-taipei-2025-the-year-of-ai-eip-7702">Zircuit at ETHGlobal Taipei 2025: The Year of AI & EIP-7702</a>
