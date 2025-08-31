@@ -6,11 +6,11 @@
 **Links:** [mattwong.ca](https://mattwong.ca/) • [LinkedIn](https://www.linkedin.com/in/mattwong-ca/) • [X](https://x.com/mattwong_ca)
 
 About me:
-- 🚢 Product @ <b>Notable Health</b>
 - 🏫 Engineering @ <b>UWaterloo</b>
-- 🛠 Building voice AI agents!
+- 🛠 Building hackathon projects!
 
 Previously:
+- Product Manager @ <b>Notable Health</b>
 - Open source contributor to <b>Protocol Labs</b> (Filecoin, IPFS)
 - Devcon Scholar via <b>Ethereum Foundation</b>
 - Partnerships Lead @ <b>Waterloo Blockchain</b>
