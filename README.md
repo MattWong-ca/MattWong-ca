@@ -1,11 +1,10 @@
 # Welcome to my GitHub! 🚀
 <!-- <img width="1440" alt="mattwongca" src="https://github.com/MattWong-ca/MattWong-ca/assets/66754344/0f848e69-130f-42bb-9eb4-96af07516571"> -->
 
-<!-- <h2>About 👋</h2> -->
-
 **Links:** [mattwong.ca](https://mattwong.ca/) • [LinkedIn](https://www.linkedin.com/in/mattwong-ca/) • [X](https://x.com/mattwong_ca)
 
 About me:
+- ⚙️ Engineering @ <b>Nethermind</b>
 - 🏫 Engineering @ <b>UWaterloo</b>
 - 🛠 Building hackathon projects!
 
@@ -20,7 +19,7 @@ Previously:
 - Full Stack Developer @ <b>ExaCare</b>
 
 <h2>Experience 💼</h2>
-
+<img src="https://github.com/user-attachments/assets/14f111ac-b3fb-4e0e-898a-c871e55676cf" alt="Nethermind" width="80"/>
 <img src="https://github.com/user-attachments/assets/5acfc718-9cf4-48b9-98b5-e32d7d18bb8e" alt="Notable Health" width="80"/>
 <img src="https://github.com/user-attachments/assets/d27402e6-2d28-402a-a5f2-ec6e28302189" alt="Protocol Labs" width="80"/>
 <img src="https://github.com/user-attachments/assets/b795b315-0de4-4d8f-a4f6-cf7771a10ee5" alt="ExaCare" width="80"/>
