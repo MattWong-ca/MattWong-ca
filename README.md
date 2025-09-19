@@ -53,7 +53,7 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
 - 2024: <a href="https://developer.paypal.com/community/blog/winning-solutions-pyusd-portal-hackathon-solana/">Breaking New Ground: Winning Solutions from the PYUSD Portal Hackathon on Solana</a>
 - 2021: <a href="https://www.ycdsb.ca/2021-top-scholars/">York Catholic District School Board announces its 2021 Top Scholars</a>
 - 2020: <a href="https://www.yorkregion.com/news/richmond-hill-teen-starts-bottle-drive-to-help-businesses-in-developing-nations-amid-covid-19/article_26c44174-7a69-57a1-8c1a-babaacbd5209.html">Richmond Hill teen starts bottle drive to help businesses in developing nations amid COVID-19</a>
-- 2016: <a href="https://image.isu.pub/160204173716-919e26a3fc68cf73461f0ed2eb2204a8/jpg/page_1.jpg">Cardboard Boat Race</a>
+- 2016: <a href="https://x.com/doncrestps/status/693865687048196096">Cardboard Boat Race</a>
 
 <h2>Web3 Hackathons + Conferences 🏗️</h2>
 <details>
