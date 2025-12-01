@@ -4,19 +4,17 @@
 **Links:** [mattwong.ca](https://mattwong.ca/) • [LinkedIn](https://www.linkedin.com/in/mattwong-ca/) • [X](https://x.com/mattwong_ca)
 
 About me:
-- ⚙️ Engineering @ <b>Nethermind</b>
 - 🏫 Engineering @ <b>UWaterloo</b>
 - 🛠 Building hackathon projects!
 
 Previously:
-- Product Manager @ <b>Notable Health</b>
+- Product @ <b>Notable Health</b>
+- Software Engineering @ {<b>Nethermind</b> (R&D), <b>theScore</b> (iOS), <b>ExaCare</b> (Full Stack)}
 - Open source contributor to <b>Protocol Labs</b> (Filecoin, IPFS)
 - Devcon Scholar via <b>Ethereum Foundation</b>
-- Partnerships Lead @ <b>Waterloo Blockchain</b>
-- Store Designer @ <b>Shopify</b>
-- iOS Developer @ <b>theScore</b>
+- Partnerships @ <b>Waterloo Blockchain</b>
+- Store Design @ <b>Shopify</b>
 - Software Product Sprint @ <b>Google</b>
-- Full Stack Developer @ <b>ExaCare</b>
 
 <h2>Experience 💼</h2>
 <img src="https://github.com/user-attachments/assets/14f111ac-b3fb-4e0e-898a-c871e55676cf" alt="Nethermind" width="80"/>
