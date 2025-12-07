@@ -117,6 +117,8 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
     - 1st Place Overall, won $150 USD mechanical keyboard and received votes by every sponsor judge
 - ETHGlobal New York
     - Built Dreamprint.app
-    - Most Killer App Potential 1st place - Flow, Pool prize - Flow, Best Consumer App - Dynamic 
+    - Most Killer App Potential 1st place - Flow, Pool prize - Flow, Best Consumer App - Dynamic
+- ETHRome
+    - Received Base grant to demo Dreamprint
 </details>
 
