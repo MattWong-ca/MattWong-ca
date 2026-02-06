@@ -1,7 +1,7 @@
 # Welcome to my GitHub! 🚀
 <!-- <img width="1440" alt="mattwongca" src="https://github.com/MattWong-ca/MattWong-ca/assets/66754344/0f848e69-130f-42bb-9eb4-96af07516571"> -->
 
-**Links:** [mattwong.ca](https://mattwong.ca/) • [LinkedIn](https://www.linkedin.com/in/mattwong-ca/) • [X](https://x.com/mattwong_ca)
+[<img src="https://cdn-icons-png.flaticon.com/512/3037/3037366.png" width="22" height="22" alt="Website" />](https://mattwong.ca/) [<img src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" width="22" height="22" alt="LinkedIn" />](https://www.linkedin.com/in/mattwong-ca/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/X_icon.svg/250px-X_icon.svg.png" width="22" height="22" alt="X" />](https://x.com/mattwong_ca)
 
 About me:
 - 🏫 Engineering @ <b>UWaterloo</b>
@@ -9,7 +9,7 @@ About me:
 
 Previously:
 - Product @ <b>Notable Health</b>
-- Software Engineering @ {<b>Nethermind</b> (R&D), <b>theScore</b> (iOS), <b>ExaCare</b> (Full Stack)}
+- Software Engineering @ <b>Nethermind</b> (R&D), <b>theScore</b> (iOS), <b>ExaCare AI</b> (Full Stack)
 - Open source contributor to <b>Protocol Labs</b> (Filecoin, IPFS)
 - Devcon Scholar via <b>Ethereum Foundation</b>
 - Partnerships @ <b>Waterloo Blockchain</b>
@@ -41,23 +41,80 @@ Ethereum • Git/GitHub/GitLab • RESTful APIs • Google Cloud APIs • JSON �
 Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Control • Data Structures + Algorithms • Debugging
 
 <h2>Features 🗞</h2>
+<details>
+  <summary>2025</summary>
 
-- 2025: <a href="https://flow.com/post/flow-the-top-choice-for-builders-at-ethglobal-nyc">Flow: The Top Choice for Builders at ETHGlobal NYC</a>
-- 2025: <a href="https://replicate.com/blog/kontext-hackathon">The FLUX.1 Kontext hackathon - Replicate Blog</a>
-- 2025: <a href="https://uwaterloo.ca/biomedical-engineering/news/facial-recognition-app-nets-bme-student-hackathon-win">Facial recognition app nets BME student hackathon win</a>
-- 2025: <a href="https://www.linkedin.com/posts/sutd_sutd-sutdlife-uwaterloo-ugcPost-7323605607712722945-J7IM">Exchange student clinches three 1st place bounties - SUTD LinkedIn</a>
-- 2025: <a href="https://www.zircuit.com/blog/zircuit-at-eth-global-taipei-2025-the-year-of-ai-eip-7702">Zircuit at ETHGlobal Taipei 2025: The Year of AI & EIP-7702</a>
-- 2025: <a href="https://flow.com/post/flow-celebrates-another-1-spot-as-the-most-built-on-l1-at-ethglobal-taipei">Flow celebrates another #1 spot as the most built on L1 at ETHGlobal Taipei</a>
-- 2024: <a href="https://developer.paypal.com/community/blog/winning-solutions-pyusd-portal-hackathon-solana/">Breaking New Ground: Winning Solutions from the PYUSD Portal Hackathon on Solana</a>
-- 2021: <a href="https://www.ycdsb.ca/2021-top-scholars/">York Catholic District School Board announces its 2021 Top Scholars</a>
-- 2020: <a href="https://www.yorkregion.com/news/richmond-hill-teen-starts-bottle-drive-to-help-businesses-in-developing-nations-amid-covid-19/article_26c44174-7a69-57a1-8c1a-babaacbd5209.html">Richmond Hill teen starts bottle drive to help businesses in developing nations amid COVID-19</a>
-- 2016: <a href="https://x.com/doncrestps/status/693865687048196096">Cardboard Boat Race</a>
+- <a href="https://flow.com/post/flow-the-top-choice-for-builders-at-ethglobal-nyc">Flow: The Top Choice for Builders at ETHGlobal NYC</a>
+- <a href="https://replicate.com/blog/kontext-hackathon">The FLUX.1 Kontext hackathon - Replicate Blog</a>
+- <a href="https://uwaterloo.ca/biomedical-engineering/news/facial-recognition-app-nets-bme-student-hackathon-win">Facial recognition app nets BME student hackathon win</a>
+- <a href="https://www.linkedin.com/posts/sutd_sutd-sutdlife-uwaterloo-ugcPost-7323605607712722945-J7IM">Exchange student clinches three 1st place bounties - SUTD LinkedIn</a>
+- <a href="https://www.zircuit.com/blog/zircuit-at-eth-global-taipei-2025-the-year-of-ai-eip-7702">Zircuit at ETHGlobal Taipei 2025: The Year of AI & EIP-7702</a>
+- <a href="https://flow.com/post/flow-celebrates-another-1-spot-as-the-most-built-on-l1-at-ethglobal-taipei">Flow celebrates another #1 spot as the most built on L1 at ETHGlobal Taipei</a>
+
+</details>
+<details>
+  <summary>2024</summary>
+
+- <a href="https://developer.paypal.com/community/blog/winning-solutions-pyusd-portal-hackathon-solana/">Breaking New Ground: Winning Solutions from the PYUSD Portal Hackathon on Solana</a>
+
+</details>
+<details>
+  <summary>2021</summary>
+
+- <a href="https://www.ycdsb.ca/2021-top-scholars/">York Catholic District School Board announces its 2021 Top Scholars</a>
+
+</details>
+<details>
+  <summary>2020</summary>
+
+- <a href="https://www.yorkregion.com/news/richmond-hill-teen-starts-bottle-drive-to-help-businesses-in-developing-nations-amid-covid-19/article_26c44174-7a69-57a1-8c1a-babaacbd5209.html">Richmond Hill teen starts bottle drive to help businesses in developing nations amid COVID-19</a>
+
+</details>
+<details>
+  <summary>2016</summary>
+
+- <a href="https://x.com/doncrestps/status/693865687048196096">Cardboard Boat Race</a>
+
+</details>
 
 <h2>Web3 Hackathons + Conferences 🏗️</h2>
 <details>
-  <summary>2022</summary>
+  <summary>2025</summary>
 
-- Converge22 by Circle (sponsored by Spawn)
+- ETHGlobal Taipei
+    - Built FindMyPhotos.app
+    - Most Killer App Potential 1st place - Flow, Best Project - Zircuit, Real World Anything - Polygon
+- Base x Vercel AI Buildathon
+    - Built Farlo
+    - 1st Place Overall
+- FLUX.1 Kontext AI Hackathon by Black Forest Labs x Replicate
+    - Built VoiceCam
+    - 1st Place Overall, won $150 USD mechanical keyboard and received votes by every sponsor judge
+- ETHGlobal New York
+    - Built Dreamprint.app
+    - Most Killer App Potential 1st place - Flow, Pool prize - Flow, Best Consumer App - Dynamic
+- ETHRome
+    - Received Base grant to demo Dreamprint
+</details>
+
+<details>
+  <summary>2024</summary>
+
+- ETHGlobal Frameworks
+    - Built FrameGPT
+- LearnWeb3 Decentralized Intelligence Season 2
+    - 1st place Farcaster bounty, 2nd place FLock bounty
+- ETHToronto
+    - 1st place Seal bounty
+- Global PYUSD Portal Hackathon
+    - 2nd place Overall
+    - Won sponsored trip to demo at Solana Hong Kong Hacker House
+- Scroll x Alchemy Level Up Mini-Hack
+    - Built Endless Scroll
+- ETHGlobal San Francisco
+    - Built Neurosaurs, won Flow pool prize
+- ETHGlobal Bangkok
+    - 1st place Akave prize, Flow pool prize
 
 </details>
 
@@ -83,42 +140,9 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
 </details>
 
 <details>
-  <summary>2024</summary>
+  <summary>2022</summary>
 
-- ETHGlobal Frameworks
-    - Built FrameGPT
-- LearnWeb3 Decentralized Intelligence Season 2
-    - 1st place Farcaster bounty, 2nd place FLock bounty
-- ETHToronto
-    - 1st place Seal bounty
-- Global PYUSD Portal Hackathon
-    - 2nd place Overall
-    - Won sponsored trip to demo at Solana Hong Kong Hacker House
-- Scroll x Alchemy Level Up Mini-Hack
-    - Built Endless Scroll
-- ETHGlobal San Francisco
-    - Built Neurosaurs, won Flow pool prize
-- ETHGlobal Bangkok
-    - 1st place Akave prize, Flow pool prize
+- Converge22 by Circle (sponsored by Spawn)
 
-</details>
-
-<details>
-  <summary>2025</summary>
-
-- ETHGlobal Taipei
-    - Built FindMyPhotos.app
-    - Most Killer App Potential 1st place - Flow, Best Project - Zircuit, Real World Anything - Polygon
-- Base x Vercel AI Buildathon
-    - Built Farlo
-    - 1st Place Overall
-- FLUX.1 Kontext AI Hackathon by Black Forest Labs x Replicate
-    - Built VoiceCam
-    - 1st Place Overall, won $150 USD mechanical keyboard and received votes by every sponsor judge
-- ETHGlobal New York
-    - Built Dreamprint.app
-    - Most Killer App Potential 1st place - Flow, Pool prize - Flow, Best Consumer App - Dynamic
-- ETHRome
-    - Received Base grant to demo Dreamprint
 </details>
 
