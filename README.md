@@ -16,6 +16,8 @@ Previously:
 - Store Design @ <b>Shopify</b>
 - Software Product Sprint @ <b>Google</b>
 
+![](https://komarev.com/ghpvc/?username=MattWong-ca)
+
 <h2>Experience 💼</h2>
 <img src="https://github.com/user-attachments/assets/14f111ac-b3fb-4e0e-898a-c871e55676cf" alt="Nethermind" width="80"/>
 <img src="https://github.com/user-attachments/assets/5acfc718-9cf4-48b9-98b5-e32d7d18bb8e" alt="Notable Health" width="80"/>
