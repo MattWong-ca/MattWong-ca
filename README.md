@@ -81,6 +81,14 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
 
 <h2>Web3 Hackathons + Conferences 🏗️</h2>
 <details>
+  <summary>2026</summary>
+
+- ETHDenver
+    - Built create-0g-app
+    - 0G pool prize
+</details>
+
+<details>
   <summary>2025</summary>
 
 - ETHGlobal Taipei
