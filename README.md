@@ -86,6 +86,8 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
 - ETHDenver
     - Built create-0g-app
     - 0G pool prize
+- ETHGlobal Cannes
+    - Built BirdQuest
 </details>
 
 <details>
