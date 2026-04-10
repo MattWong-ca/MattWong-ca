@@ -86,6 +86,9 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
 - ETHDenver
     - Built create-0g-app
     - 0G pool prize
+- Solana Graveyard Hackathon
+    - Built Dreamprint on Solana
+    - 3rd Place Overall (out of 342 teams globally)
 - ETHGlobal Cannes
     - Built BirdQuest
 </details>
