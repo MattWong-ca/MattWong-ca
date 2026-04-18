@@ -1,7 +1,7 @@
 # Welcome to my GitHub! 🚀
 <!-- <img width="1440" alt="mattwongca" src="https://github.com/MattWong-ca/MattWong-ca/assets/66754344/0f848e69-130f-42bb-9eb4-96af07516571"> -->
 
-[<img src="https://cdn-icons-png.flaticon.com/512/3037/3037366.png" width="22" height="22" alt="Website" />](https://mattwong.ca/) [<img src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" width="22" height="22" alt="LinkedIn" />](https://www.linkedin.com/in/mattwong-ca/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/X_icon.svg/250px-X_icon.svg.png" width="22" height="22" alt="X" />](https://x.com/mattwong_ca)
+<a href="https://mattwong.ca/"><img src="https://cdn-icons-png.flaticon.com/512/3037/3037366.png" width="22"></a>&nbsp;<a href="https://www.linkedin.com/in/mattwong-ca/"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" width="22"></a>&nbsp;<a href="https://x.com/mattwong_ca"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/X_icon.svg/250px-X_icon.svg.png" width="22"></a>
 
 About me:
 - 🏫 Engineering @ <b>UWaterloo</b>
