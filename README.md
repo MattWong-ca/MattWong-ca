@@ -91,6 +91,8 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
     - 3rd Place Overall (out of 342 teams globally)
 - ETHGlobal Cannes
     - Built BirdQuest
+- ETHGlobal Open Agents
+    - Built ETHGlobal Skills
 </details>
 
 <details>
