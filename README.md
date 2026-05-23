@@ -3,28 +3,21 @@
 
 <a href="https://mattwong.ca/"><img src="https://cdn-icons-png.flaticon.com/512/3037/3037366.png" width="22"></a>&nbsp;<a href="https://www.linkedin.com/in/mattwong-ca/"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" width="22"></a>&nbsp;<a href="https://x.com/mattwong_ca"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/X_icon.svg/250px-X_icon.svg.png" width="22"></a>
 
-About me:
-- 🏫 Engineering @ <b>UWaterloo</b>
-- 🛠 Building hackathon projects!
+SWE and PM studying Biomedical Engineering at the University of Waterloo. Current APM @ Coinbase.
 
-Previously:
-- Product @ <b>Notable Health</b>
-- Software Engineering @ <b>Nethermind</b> (R&D), <b>theScore</b> (iOS), <b>ExaCare AI</b> (Full Stack)
-- Open source contributor to <b>Protocol Labs</b> (Filecoin, IPFS)
-- Devcon Scholar via <b>Ethereum Foundation</b>
-- Partnerships @ <b>Waterloo Blockchain</b>
-- Store Design @ <b>Shopify</b>
-- Software Product Sprint @ <b>Google</b>
+My [work experience](https://mattwong.ca/work) SWE/PM/Design at companies like Shopify, theScore, Notable Health, and more.
+
+Contact me [here](https://mattwong.ca/contact).
 
 ![](https://komarev.com/ghpvc/?username=MattWong-ca)
 
 <h2>Experience 💼</h2>
-<img src="https://github.com/user-attachments/assets/14f111ac-b3fb-4e0e-898a-c871e55676cf" alt="Nethermind" width="80"/>
+<img src="https://github.com/user-attachments/assets/e23713a1-8a67-43f3-82d0-3fc5ce956ed8" alt="Coinbase" width="80" />
+<img src="https://github.com/user-attachments/assets/a5217782-828a-492a-b9b5-7864b269bcf3" alt="Nethermind" width="80"/>
 <img src="https://github.com/user-attachments/assets/5acfc718-9cf4-48b9-98b5-e32d7d18bb8e" alt="Notable Health" width="80"/>
 <img src="https://github.com/user-attachments/assets/d27402e6-2d28-402a-a5f2-ec6e28302189" alt="Protocol Labs" width="80"/>
 <img src="https://github.com/user-attachments/assets/b795b315-0de4-4d8f-a4f6-cf7771a10ee5" alt="ExaCare" width="80"/>
 <img src="https://github.com/user-attachments/assets/8c5efe2f-9dc0-4870-8512-b865ce67abb2" alt="theScore" width="80"/>
-<img src="https://github.com/user-attachments/assets/3039fb70-ca0d-481e-9c96-34247effd75b" alt="Google" width="80"/>
 <img src="https://github.com/user-attachments/assets/f5341bd3-0dc4-4118-aa03-1fcd6b72114c" alt="Shopify" width="80"/>
 <img src="https://github.com/user-attachments/assets/59dc234e-f098-4415-9048-d9bdf2c77f3c" alt="FoundersBoost" width="80"/>
 
