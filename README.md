@@ -5,7 +5,7 @@
 
 SWE and PM studying Biomedical Engineering at the University of Waterloo. Current APM @ Coinbase.
 
-My [work experience](https://mattwong.ca/work) SWE/PM/Design at companies like Shopify, theScore, Notable Health, and more.
+My [work experience](https://mattwong.ca/work) spans SWE/PM/Design at companies like Shopify, theScore, Notable Health, and more.
 
 Contact me [here](https://mattwong.ca/contact).
 
