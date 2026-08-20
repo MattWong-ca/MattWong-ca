@@ -3,9 +3,9 @@
 
 <a href="https://mattwong.ca/"><img src="https://cdn-icons-png.flaticon.com/512/3037/3037366.png" width="22"></a>&nbsp;<a href="https://www.linkedin.com/in/mattwong-ca/"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" width="22"></a>&nbsp;<a href="https://x.com/mattwong_ca"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/X_icon.svg/250px-X_icon.svg.png" width="22"></a>
 
-SWE and PM studying Biomedical Engineering at the University of Waterloo. Current APM @ Coinbase.
+SWE and PM studying Biomedical Engineering at the University of Waterloo.
 
-My [work experience](https://mattwong.ca/work) spans SWE/PM/Design at companies like Shopify, theScore, Notable Health, and more.
+My [work experience](https://mattwong.ca/work) spans SWE/PM/Design at companies like Coinbase, Shopify, and more.
 
 Contact me [here](https://mattwong.ca/contact).
 
@@ -30,7 +30,7 @@ Contact me [here](https://mattwong.ca/contact).
 🦄 Solidity • Ethers.js</br>
 <p></p>
 <b>Tools/Technologies:</b></br>
-Ethereum • Git/GitHub/GitLab • RESTful APIs • Google Cloud APIs • JSON • CocoaPods • Firebase • .NET
+Claude Code, Cursor, MCPs/Skills/Tools, Git/GitHub/GitLab, Jira, Linear, Vercel, Figma, LLM/REST APIs, Ethereum
 <p></p>
 <b>General:</b></br>
 Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Control • Data Structures + Algorithms • Debugging
@@ -72,7 +72,7 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
 
 </details>
 
-<h2>Web3 Hackathons + Conferences 🏗️</h2>
+<h2>Hackathons + Conferences 🏗️</h2>
 <details>
   <summary>2026</summary>
 
