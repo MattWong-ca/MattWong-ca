@@ -35,7 +35,14 @@ Claude Code, Cursor, MCPs/Skills/Tools, Git/GitHub/GitLab, Jira, Linear, Vercel,
 <b>General:</b></br>
 Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Control • Data Structures + Algorithms • Debugging
 
-<h2>Features 🗞</h2>
+<h2>Media 🗞</h2>
+<details>
+  <summary>2026</summary>
+
+- <a href="https://egamers.io/base-builder-code-data-goes-public-with-new-tracker-champz-reports-40000-transactions">Base Builder Code data goes public with new tracker</a>
+
+</details>
+
 <details>
   <summary>2025</summary>
 
@@ -47,24 +54,28 @@ Object-oriented Programming • Software Architecture (MVC, MVVM) • Version Co
 - <a href="https://flow.com/post/flow-celebrates-another-1-spot-as-the-most-built-on-l1-at-ethglobal-taipei">Flow celebrates another #1 spot as the most built on L1 at ETHGlobal Taipei</a>
 
 </details>
+
 <details>
   <summary>2024</summary>
 
 - <a href="https://developer.paypal.com/community/blog/winning-solutions-pyusd-portal-hackathon-solana/">Breaking New Ground: Winning Solutions from the PYUSD Portal Hackathon on Solana</a>
 
 </details>
+
 <details>
   <summary>2021</summary>
 
 - <a href="https://www.ycdsb.ca/2021-top-scholars/">York Catholic District School Board announces its 2021 Top Scholars</a>
 
 </details>
+
 <details>
   <summary>2020</summary>
 
 - <a href="https://www.yorkregion.com/news/richmond-hill-teen-starts-bottle-drive-to-help-businesses-in-developing-nations-amid-covid-19/article_26c44174-7a69-57a1-8c1a-babaacbd5209.html">Richmond Hill teen starts bottle drive to help businesses in developing nations amid COVID-19</a>
 
 </details>
+
 <details>
   <summary>2016</summary>
 
